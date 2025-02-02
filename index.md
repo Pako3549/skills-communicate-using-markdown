@@ -5,3 +5,6 @@ Here's a code block:
 ```
 print("Code block!")
 ```
+Here's a task list:
+- [X] Order pizza for dinner
+- [ ] Stop flexing nixos rice
